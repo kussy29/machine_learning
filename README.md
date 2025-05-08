@@ -8,3 +8,4 @@ Zadania domowe:
 5. Kernel methods : https://github.com/kussy29/machine_learning/blob/main/lab05_kernel_methods.ipynb
 6. Tree methods : https://github.com/kussy29/machine_learning/blob/main/Lab06_tree-methods.ipynb
 7. Gradient boosting : https://github.com/kussy29/machine_learning/blob/main/lab07_gradient_boosting.ipynb
+8. Gradient training : https://github.com/kussy29/machine_learning/blob/main/lab08_automatic_gradient_training_loop.ipynb
