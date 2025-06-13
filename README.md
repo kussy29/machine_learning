@@ -12,6 +12,8 @@ Zadania domowe:
 
 Proszę o sprawdzenie tych zadań:  
 9. Multi Layer Perceptron : https://github.com/kussy29/machine_learning/blob/main/lab09_multi_layer_perceptron_mlp.ipynb
+
 10. Convolutional Neural Network https://github.com/kussy29/machine_learning/blob/main/lab10_convolutional_neural_network_cnn.ipynb
+
 11a. Autoencoders: https://github.com/kussy29/machine_learning/blob/main/Lab11_autoencoders.jpeg
 11b. Autoencoders: https://github.com/kussy29/machine_learning/blob/main/lab11_autoencoders.ipynb
