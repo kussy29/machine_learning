@@ -17,3 +17,5 @@ Proszę o sprawdzenie tych zadań:
 
 11a. Autoencoders: https://github.com/kussy29/machine_learning/blob/main/Lab11_autoencoders.jpeg
 11b. Autoencoders: https://github.com/kussy29/machine_learning/blob/main/lab11_autoencoders.ipynb
+12. Towards attention:
+https://github.com/kussy29/machine_learning/blob/main/lab12_nlp_towards_attention.ipynb
