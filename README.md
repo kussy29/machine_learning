@@ -24,4 +24,5 @@ https://github.com/kussy29/machine_learning/blob/main/lab12_nlp_towards_attentio
 Final model:
 
 Notebook: https://github.com/kussy29/machine_learning/blob/main/lab13_towards_self_attention.ipynb
+
 Models: https://github.com/kussy29/machine_learning/tree/main/final_model
