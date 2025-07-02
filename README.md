@@ -21,7 +21,7 @@ Proszę o sprawdzenie tych zadań:
 https://github.com/kussy29/machine_learning/blob/main/lab12_nlp_towards_attention.ipynb
 
 
-Final model:
+Final model (lab 13):
 
 Notebook: https://github.com/kussy29/machine_learning/blob/main/lab13_towards_self_attention.ipynb
 
